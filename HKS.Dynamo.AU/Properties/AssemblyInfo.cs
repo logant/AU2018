@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("HKS.Dynamo.AU")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Useful Dynamo Nodes for Autodesk University 2018 Presentation")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("HKS, Inc.")]
 [assembly: AssemblyProduct("HKS.Dynamo.AU")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
