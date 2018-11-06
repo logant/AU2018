@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WombatDynamo</name>
+    </assembly>
+    <members>
+        <member name="M:HKS.DynamoZT.AU.Wall.WallByProfile(System.Collections.Generic.IEnumerable{Autodesk.DesignScript.Geometry.PolyCurve},Revit.Elements.WallType,Revit.Elements.Level)">
+            <summary>
+            Create a wall by profile.
+            </summary>
+        </member>
+        <member name="M:HKS.DynamoZT.AU.Wall.CreateWallOpening(Revit.Elements.Wall,Autodesk.DesignScript.Geometry.PolyCurve)">
+            <summary>
+            Create an opening in a wall.
+            </summary>
+        </member>
+    </members>
+</doc>

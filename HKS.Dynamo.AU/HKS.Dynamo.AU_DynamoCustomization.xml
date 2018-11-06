@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HKS.Dynamo.AU</name>
+    </assembly>
+    <namespaces>
+        <namespace name="HKS.DynamoZT.AU">
+            <category>HKS_AU2018</category>
+        </namespace>
+    </namespaces>
+    <classes>
+        <class name="HKS.DynamoZT.AU.Wall" shortname="Wall"/>
+    </classes>
+</doc>
